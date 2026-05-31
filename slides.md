@@ -311,3 +311,24 @@ This scatterplot shows the relationship between Verbal scores and age, with diff
 :::
 
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Age Distribution Histogram
+
+This histogram displays the distribution of ages within the dataset, allowing us to see the frequency of different age groups.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/age_distribution_histogram.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
