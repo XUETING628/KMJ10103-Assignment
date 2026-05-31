@@ -130,5 +130,53 @@ The work done $W$ is positive when the system expands against an external pressu
 ::::
 
 ---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores Distribution
+
+This histogram visualizes the distribution of Math scores within our dataset. We can observe the frequency of different score ranges.
+
+**Observations:**
+- The scores appear to be spread across a range, with a concentration around certain values.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/math_scores_histogram.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores Distribution
+
+This histogram illustrates the distribution of Verbal scores, providing insights into the spread and common ranges of performance in this subject.
+
+**Observations:**
+- Similar to Math scores, Verbal scores show varying frequencies across different bins.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/verbal_scores_histogram.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
 # Bibliography
 <div id="refs"></div>
