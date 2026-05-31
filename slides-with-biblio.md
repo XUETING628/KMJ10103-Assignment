@@ -673,6 +673,48 @@ This scatterplot visualizes the relationship between height and weight, with poi
 
 ::::
 
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores: Overview of Distributions and Relationships
+
+This slide presents a comprehensive overview of the Math scores in the dataset, visualized through a combination of a histogram, boxplot by sex, bar chart of average scores by sex, and a scatterplot against age. This multi-panel view allows for a quick understanding of the score distribution, gender-based differences, and age-related trends.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/math_scores_overview.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores: Overview of Distributions and Relationships
+
+This slide provides a similar multi-panel analysis for Verbal scores, including its distribution, gender-based comparison, average scores by sex, and its relationship with age. This offers a parallel perspective to the Math scores analysis.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/verbal_scores_overview.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
 
 ---
 # Bibliography
