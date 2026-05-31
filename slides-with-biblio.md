@@ -59,7 +59,6 @@ hash: true
   });
 </script>
 
-
 :::
 
 ::: {.column width="50%"}

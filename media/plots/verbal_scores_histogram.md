@@ -1,13 +1,21 @@
-p_verbal <- bigclass %>% 
-  ggplot(aes(x = Verbal)) + 
-  geom_histogram(binwidth = 50, fill = '#D55E00', color = 'white', alpha = 0.8) + 
-  labs(title = 'Distribution of Verbal Scores', x = 'Verbal Score', y = 'Frequency') + 
-  theme_minimal() + 
-  theme(plot.background = element_rect(fill = 'white'),
-        panel.background = element_rect(fill = 'white'),
-        axis.title.x = element_text(size = 18),
-        axis.title.y = element_text(size = 18),
-        axis.text.x = element_text(size = 14),
-        axis.text.y = element_text(size = 14))
-plotly_verbal <- ggplotly(p_verbal)
-htmlwidgets::saveWidget(plotly_verbal, file = 'media/plots/verbal_scores_histogram.html', selfcontained = TRUE)
+# R code for Verbal scores histogram
+library(ggplot2)
+library(plotly)
+
+# Generate Verbal scores histogram
+verbal_hist_plot <- ggplot(bigclass, aes(x = Verbal)) +
+  geom_histogram(binwidth = 50, fill = "#D55E00", color = "white") +
+  labs(title = "Distribution of Verbal Scores", x = "Verbal Score", y = "Frequency") +
+  theme_minimal() +
+  theme(
+    plot.background = element_rect(fill = "white"),
+    panel.background = element_rect(fill = "white"),
+    axis.title = element_text(size = 18),
+    axis.text = element_text(size = 14)
+  )
+
+# Convert ggplot to plotly
+verbal_plotly_plot <- ggplotly(verbal_hist_plot)
+
+# Save the plot as an HTML widget
+htmlwidgets::saveWidget(verbal_plotly_plot, file = "media/plots/verbal_scores_histogram.html", selfcontained = TRUE)
