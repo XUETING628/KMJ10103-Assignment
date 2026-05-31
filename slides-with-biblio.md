@@ -373,6 +373,96 @@ This histogram displays the distribution of ages within the dataset, allowing us
 
 ::::
 
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores Distribution
+
+This histogram visualizes the distribution of Math scores within our dataset. We can observe the frequency of different score ranges.
+
+**Observations:**
+- The scores appear to be spread across a range, with a concentration around certain values.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/math_scores_histogram.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores Distribution
+
+This histogram illustrates the distribution of Verbal scores, providing insights into the spread and common ranges of performance in this subject.
+
+**Observations:**
+- Similar to Math scores, Verbal scores show varying frequencies across different bins.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/verbal_scores_histogram.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores: Overview of Distributions and Relationships
+
+This slide presents a comprehensive overview of the Math scores in the dataset, visualized through a combination of a histogram, boxplot by sex, bar chart of average scores by sex, and a scatterplot against age. This multi-panel view allows for a quick understanding of the score distribution, gender-based differences, and age-related trends.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/math_scores_overview.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores: Overview of Distributions and Relationships
+
+This slide provides a similar multi-panel analysis for Verbal scores, including its distribution, gender-based comparison, average scores by sex, and its relationship with age. This offers a parallel perspective to the Math scores analysis.
+:::
+
+::: {.column width="50%"}
+<iframe 
+  data-src='media/plots/verbal_scores_overview.html' 
+  width='100%' 
+  height='500px' 
+  style='border:none;' 
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
 
 ---
 # Bibliography
