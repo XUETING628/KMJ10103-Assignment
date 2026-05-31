@@ -463,6 +463,216 @@ This slide provides a similar multi-panel analysis for Verbal scores, including 
 
 ::::
 
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores: Boxplot by Sex
+
+This boxplot illustrates the distribution of Math scores, allowing for a comparison of performance between different sexes. It helps in identifying potential differences in score ranges and medians.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/math_scores_boxplot_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores: Average by Sex Bar Chart
+
+This bar chart presents the average Math scores for each sex, providing a clear visual comparison of typical performance levels.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/math_scores_barchart_avg_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Math Scores: Scatterplot vs. Age
+
+This scatterplot shows the relationship between Math scores and age, with different sexes distinguished by color. This helps to visualize any trends or correlations between age, sex, and Math performance.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/math_scores_scatterplot_age.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores: Boxplot by Sex
+
+This boxplot illustrates the distribution of Verbal scores, allowing for a comparison of performance between different sexes. It helps in identifying potential differences in score ranges and medians.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/verbal_scores_boxplot_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores: Average by Sex Bar Chart
+
+This bar chart presents the average Verbal scores for each sex, providing a clear visual comparison of typical performance levels.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/verbal_scores_barchart_avg_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Verbal Scores: Scatterplot vs. Age
+
+This scatterplot shows the relationship between Verbal scores and age, with different sexes distinguished by color. This helps to visualize any trends or correlations between age, sex, and Verbal performance.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/verbal_scores_scatterplot_age.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Age Distribution Histogram
+
+This histogram displays the distribution of ages within the dataset, allowing us to see the frequency of different age groups.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/age_distribution_histogram.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Average Math Score by Sex
+
+This bar chart illustrates the average Math scores, allowing for a clear comparison of typical performance levels between different sexes.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/math_scores_barchart_avg_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Weight Distribution by Sex
+
+This boxplot visualizes the distribution of weight, allowing for a comparison of weight ranges and medians between different sexes.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/weight_distribution_boxplot_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Height vs. Weight Scatterplot by Sex
+
+This scatterplot visualizes the relationship between height and weight, with points colored by sex to highlight any gender-specific patterns or differences in this correlation.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/height_weight_scatterplot_by_sex.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
 
 ---
 # Bibliography
