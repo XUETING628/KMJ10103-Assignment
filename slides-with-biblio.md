@@ -18,7 +18,6 @@ hash: true
 #### Universiti Malaysia Perlis
 #### [s251043256@studentmail.unimap.edu.my](mailto:s251043256@studentmail.unimap.edu.my)
 
-<!-- __AUDIO_INTRO_DO_NOT_TOUCH__ -->
 
 :::
 
