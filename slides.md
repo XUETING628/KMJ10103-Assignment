@@ -13,10 +13,10 @@ hash: true
 :::: {.columns}
 ::: {.column width="50%"}
 
-## Sample slides
-#### PlaceHolderName
+## Assignment
+#### Cheong Xue Ting
 #### Universiti Malaysia Perlis
-#### [placeholder@email.com](mailto:placeholder@email.com)
+#### [s251043256@studentmail.unimap.edu.my](mailto:s251043256@studentmail.unimap.edu.my)
 
 <!-- __AUDIO_INTRO_DO_NOT_TOUCH__ -->
 

@@ -13,10 +13,10 @@ hash: true
 :::: {.columns}
 ::: {.column width="50%"}
 
-## Sample slides
-#### PlaceHolderName
+## Assignment
+#### Cheong Xue Ting
 #### Universiti Malaysia Perlis
-#### [placeholder@email.com](mailto:placeholder@email.com)
+#### [s251043256@studentmail.unimap.edu.my](mailto:s251043256@studentmail.unimap.edu.my)
 
 <audio id="bg-music" src="media/audio/sb.m4a" loop></audio>
 
@@ -58,7 +58,6 @@ hash: true
     });
   });
 </script>
-
 
 :::
 
@@ -924,7 +923,6 @@ This scatterplot visualizes the relationship between height and weight, with poi
 :::
 
 ::::
-
 
 ---
 # Bibliography
