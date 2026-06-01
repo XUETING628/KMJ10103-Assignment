@@ -884,3 +884,129 @@ This scatterplot visualizes the relationship between height and weight, with poi
 :::
 
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart for Part Length (Machine 1)
+
+This control chart visualizes the Part Length measurements for Machine 1, showing the process mean, upper control limit (UCL), and lower control limit (LCL). It helps in monitoring process stability and detecting any out-of-control conditions.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/control_chart_machine_1.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart for Part Length (Machine 2)
+
+This control chart visualizes the Part Length measurements for Machine 2, showing the process mean, upper control limit (UCL), and lower control limit (LCL). It helps in monitoring process stability and detecting any out-of-control conditions.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/control_chart_machine_2.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Control Chart for Part Length (Machine 3)
+
+This control chart visualizes the Part Length measurements for Machine 3, showing the process mean, upper control limit (UCL), and lower control limit (LCL). It helps in monitoring process stability and detecting any out-of-control conditions.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/control_chart_machine_3.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 1)
+
+This chart displays the process capability for Part Length on Machine 1, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_1.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 2)
+
+This chart displays the process capability for Part Length on Machine 2, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_2.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 3)
+
+This chart displays the process capability for Part Length on Machine 3, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_3.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
