@@ -42,7 +42,7 @@
           add_lines(x = c(LSL, LSL), y = c(0, max(hist_data_machine$counts, 0.1)), name = 'LSL', line = list(color = '#D55E00', dash = 'dash')) %>%
           add_lines(x = c(USL, USL), y = c(0, max(hist_data_machine$counts, 0.1)), name = 'USL', line = list(color = '#D55E00', dash = 'dash')) %>%
           layout(
-            title = list(text = paste0('Process Capability for Part Length (Machine 3)<br>Cp: ', round(Cp_value, 2), ', Cpk: ', round(Cpk_value, 2)), font = list(size = 20)),
+            title = list(text = paste0('Process Capability for Part Length (Machine 3)<br>LSL: ', LSL, ', USL: ', USL, '<br>Cp: ', round(Cp_value, 2), ', Cpk: ', round(Cpk_value, 2)), font = list(size = 20)),
             xaxis = list(title = list(text = 'Part Length', font = list(size = 18)), tickfont = list(size = 14)),
             yaxis = list(title = list(text = 'Frequency', font = list(size = 18)), tickfont = list(size = 14)),
             plot_bgcolor = 'white',

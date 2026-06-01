@@ -1011,5 +1011,131 @@ This chart displays the process capability for Part Length on Machine 3, includi
 ::::
 
 ---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 1)
+
+This chart displays the process capability for Part Length on Machine 1, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_1.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 2)
+
+This chart displays the process capability for Part Length on Machine 2, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_2.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 3)
+
+This chart displays the process capability for Part Length on Machine 3, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_3.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 1)
+
+This chart displays the process capability for Part Length on Machine 1, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_1.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 2)
+
+This chart displays the process capability for Part Length on Machine 2, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_2.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+### Process Capability Chart for Part Length (Machine 3)
+
+This chart displays the process capability for Part Length on Machine 3, including the distribution of measurements relative to the lower and upper specification limits (LSL and USL). It provides key indices like Cp and Cpk to assess if the process is capable of meeting requirements.
+:::
+
+::: {.column width="50%"}
+<iframe
+  data-src='media/plots/plot/process_capability_machine_3.html'
+  width='100%'
+  height='500px'
+  style='border:none;'
+  scrolling='no'>
+</iframe>
+:::
+
+::::
+
+---
 # Bibliography
 <div id="refs"></div>
